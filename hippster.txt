@@ -4,3 +4,10 @@ Scenester gatekeep street art occupy post-ironic ennui organic authentic banh mi
 Tilde JOMO chia activated charcoal blackbird spyplane. Jean shorts normcore biodiesel semiotics cliche praxis sus.
 
 BRRA
+
+
+
+select * from actor
+
+
+join movie on movie.movie_id = actor.actor_id
