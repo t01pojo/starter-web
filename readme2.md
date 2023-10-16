@@ -5,7 +5,7 @@ This is a simple website creation helper.
 
 This is example is to show ...
 ##Purpose
-
+As stated above, the main purpose is to provide...
 ##Deployment
-
+This is a simple web project that can be on any web
 ##How to Contribute
