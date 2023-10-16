@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bo Jonson 	poul.joensen@tryg.dk @BoJonson
 
 # THANKS
 
