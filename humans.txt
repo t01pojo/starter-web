@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Thanks to the BDS boys!
 
 # TECHNOLOGY COLOPHON
 
