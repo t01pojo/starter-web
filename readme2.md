@@ -11,4 +11,4 @@ This is a simple web project that can be on any web
 ##How to Contribute
 Please fork this repository and then issue pull request for review.
 ###Copyright
-2023 Bo Jonson
+2023 Bo Jonson All rights reserved.
