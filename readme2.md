@@ -1,6 +1,7 @@
 #Starter Web Project
 Adding a line for rebasing test.
 This is a simple website creation helper, then more changes from myfeaturebranches too.
+We are doing an emergency fix.
 ##Introduction
 
 This is example is to show ...
